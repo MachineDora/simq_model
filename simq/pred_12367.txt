@@ -1,0 +1,8 @@
+12367
+Title: Can one choose a specific repository for the Ubuntu setup process to use when installing from the live CD?
+Clarq_rake: are you asking about support for transferring files to a specific device ?
+keywords: ['specific', 'device', 'transferring', 'files', 'support']
+Clarq_body: 
+the two applications you'll be losing in ` apt-get install -f ` are google earth ( ` google-earth-stable ` ) and something freeoffice ?
+curious . how does ` ubuntuone-client ` fit to ` orca * ` template ?
+how did you set it up to begin with ?

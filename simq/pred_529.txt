@@ -1,0 +1,8 @@
+529
+Title: How to set up an APT repository?
+Clarq_rake: ok , i see you're using gnome shell , what theme are you trying to use ?
+keywords: ['gnome', 'shell', 'theme']
+Clarq_body: 
+what do you mean by " remount " ?
+curious . how does ` ubuntuone-client ` fit to ` orca * ` template ?
+why such a roundabout way and not [ ` kill ( 2 ) ` ] ( url ) ?

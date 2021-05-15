@@ -1,0 +1,8 @@
+2034
+Title: How to make folders hidden?
+Clarq_rake: ok , i see you're using gnome shell , what theme are you trying to use ?
+keywords: ['gnome', 'shell', 'theme']
+Clarq_body: 
+how did you set it up to begin with ?
+just a guess , but do you have 32bit support , for the i386 packages ?
+did you try a ` sudo apt-get -f install ` ?
